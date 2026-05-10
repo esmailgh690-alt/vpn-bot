@@ -6,7 +6,7 @@ from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 import asyncio
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8754323678:AAH8PJBEyxkGe3K5dvJvEehp2nTnO-utxe8"
 ADMIN_ID = 6400775424
 
 CARD_INFO = """
