@@ -96,8 +96,8 @@ async def handler(message: types.Message):
 
         await message.answer(
             "✅ رسید شما ارسال شد."
-بعد از تایید، کانفیگ برایتان فرستاده می‌شود."
-       " )
+"بعد از تایید، کانفیگ برایتان فرستاده می‌شود."
+  )
 
         waiting_users.remove(user_id)
 
