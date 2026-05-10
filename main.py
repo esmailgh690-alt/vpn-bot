@@ -95,7 +95,7 @@ async def handler(message: types.Message):
         )
 
         await message.answer(
-            "✅ رسید شما ارسال شد.
+            "✅ رسید شما ارسال شد."
 بعد از تایید، کانفیگ برایتان فرستاده می‌شود."
         )
 
