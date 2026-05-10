@@ -12,7 +12,7 @@ from aiogram.filters import Command
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = os.environ["8754323678:AAH8PJBEyxkGe3K5dvJvEehp2nTnO-utxe8"]
+API_TOKEN = "8754323678:AAH8PJBEyxkGe3K5dvJvEehp2nTnO-utxe8"
 ADMIN_CHAT_ID = int(os.environ["6400775424"])
 ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "@idarkfail")
 CHANNEL_ID = os.environ.get("CHANNEL_ID", "@xvpnconfigs")
